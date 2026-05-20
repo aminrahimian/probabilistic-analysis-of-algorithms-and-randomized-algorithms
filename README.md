@@ -4,7 +4,7 @@ University of Pittsburgh, Spring 2026
 Instructor: Prof. Amin Rahimian
 Scribe: Donghwan Kim
 
-This repository hosts the compiled scribe notes for IE 3080 (`IE3080_Lecture_Notes.pdf`) together with the LaTeX source (`advanced_or.tex`). The purpose of this README is to help a first-time reader navigate the PDF in the way the notes were designed to be read.
+This repository hosts the compiled scribe notes for IE 3080 (`IE3080_Lecture_Notes.pdf`). The purpose of this README is to help a first-time reader navigate the PDF in the way the notes were designed to be read.
 
 ## 1. What these notes are after
 
