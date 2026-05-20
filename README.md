@@ -34,7 +34,7 @@ The body is organised into eleven sections. Each section builds on tools introdu
 10. Improved 3-SAT and the Monte Carlo Method
 11. Approximate Counting, MCMC, and Coupling
 
-Twenty-one homework problems are interleaved through the body at the points where the underlying tools have just been developed. A `plainnat` bibliography appears at the end.
+Twenty-one homework problems are interleaved through the body at the points where the underlying tools have just been developed. A bibliography appears at the end.
 
 ## 3. The four boxes you will see on the page
 
@@ -59,7 +59,7 @@ Throughout the body you will see small slate-blue tags such as `[Mor: Thm. 18.1]
 
 These tags are pinpoint citations rather than general references. A tag attached to the header of a theorem or definition gives the textbook home of that exact result. A tag dropped inline in the body usually points to a supporting lemma or to a more detailed proof if you want to look one up.
 
-Additional references (seminal papers, monographs, original sources) appear in the bibliography under the same `plainnat` style and are cited in the body with `\citet{...}` or `\citep{...}`.
+Additional references such as seminal papers, monographs, and original sources appear in the bibliography at the end of the document.
 
 ## 5. Suggested reading paths
 
